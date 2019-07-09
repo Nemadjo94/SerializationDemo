@@ -1,0 +1,11 @@
+﻿Serijalizacija znaci cuvanje stanja objekta u sekundarnu memoriju, kao sto je fajl.
+
+Serijalizacija je korisna kada treba da testiramo da li nasa biznis logika daje tacne podatke bez verifikovanja
+rezultata od strane UI-a ili baze podataka. U sustini pomaze testiranje.
+
+Postoje 3 vrste serijalizacije:
+1.Binary serialization - Cuvamo objekte u binarnom formatu
+2.Soap serialization - Cuvamo objekte u binarnom formatu, koristi se za internet komunikaciju
+3.Xml serialization - Cuvamo objekte u XML fajlu
+
+U ovom projektu radicemo samo xml serijalizaciju

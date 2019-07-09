@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\SerializationTutorial\SerializationTutorial\bin\Debug\SerializationTutorial.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\SerializationTutorial\SerializationTutorial\bin\Debug\SerializationTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\SerializationTutorial\SerializationTutorial\bin\Debug\SerializationTutorial.pdb
+C:\Users\Nemanja Djordjevic\source\repos\SerializationTutorial\SerializationTutorial\obj\Debug\SerializationTutorial.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\SerializationTutorial\SerializationTutorial\obj\Debug\SerializationTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\SerializationTutorial\SerializationTutorial\obj\Debug\SerializationTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\SerializationTutorial\SerializationTutorial\obj\Debug\SerializationTutorial.pdb
